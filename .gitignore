@@ -1,0 +1,7 @@
+audio-image_examples/
+audio-image_test_examples/
+
+pretrained_cpc/
+
+*/__pycache__/*
+*/__pycache__/*.pyc
