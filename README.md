@@ -1,1 +1,1 @@
-For each sample in the support set, there is a list containing the following fields in the exact order: ```audio_fn, image_fn, speaker, start, end, word_class```.
+The support sets given is a dictionary containing the audio names of the audio samples in the support set. When accessing the sample by the audio name, e.g. support_set[audio_name] you will find a list containing the following fields in the exact order: ```audio_fn, image_fn, speaker, start, end, word_class```.
